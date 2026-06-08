@@ -1,0 +1,19 @@
+# Fine-riga normalizzati a LF nel repo (coerenza e CI Linux).
+* text=auto eol=lf
+
+# Script Windows: CRLF.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# gradlew DEVE restare LF: gira su Linux nella CI.
+gradlew text eol=lf
+
+# Binari: nessuna normalizzazione.
+*.ttf binary
+*.otf binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.jar binary
+*.keystore binary
+*.jks binary

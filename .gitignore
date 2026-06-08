@@ -1,0 +1,21 @@
+# Gradle / build
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+
+# Service account Google Wallet (SENSIBILE: non versionare)
+app/src/main/assets/wallet_service_account.json
+
+# Screenshot di sviluppo
+screenshots/
+
+# Download temporaneo dei font
+_fonts_tmp/
+
+# Keystore di firma
+*.jks
+*.keystore
