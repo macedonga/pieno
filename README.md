@@ -25,6 +25,15 @@ Clone the repo, then run:
 
 The APK is in `app/build/outputs/apk/debug/`.
 
+## Screenshots
+<p align="center">
+  <img src="docs/home.png" width="240" alt="Pieno screenshot 1">
+  <img src="docs/edit.png" width="240" alt="Pieno screenshot 2">
+  <img src="docs/stations.png" width="240" alt="Pieno screenshot 3">
+  <img src="docs/detail.png" width="240" alt="Pieno screenshot 4">
+  <img src="docs/history.png" width="240" alt="Pieno screenshot 4">
+</p>
+
 > [!WARNING]
 > Pieno is an independent project, **not affiliated with, sponsored by, or endorsed by Insiel S.p.A. or the Autonomous Region of Friuli Venezia Giulia**. Any trademarks belong to their respective owners.
 > The app circumvents no protection: it accesses **only your own account's data**, through the official APIs and **your** SPID/CIE login, and sends nothing to third parties. The QR shown is the token signed by the regional backend, redrawn as-is.

@@ -25,6 +25,15 @@ Clona il repo e poi esegui:
 
 L'APK è in `app/build/outputs/apk/debug/`.
 
+## Foto
+<p align="center">
+  <img src="docs/home.png" width="240" alt="Pieno screenshot 1">
+  <img src="docs/edit.png" width="240" alt="Pieno screenshot 2">
+  <img src="docs/stations.png" width="240" alt="Pieno screenshot 3">
+  <img src="docs/detail.png" width="240" alt="Pieno screenshot 4">
+  <img src="docs/history.png" width="240" alt="Pieno screenshot 4">
+</p>
+
 > [!WARNING]
 > Pieno è un progetto indipendente, **non affiliato, sponsorizzato o approvato da Insiel S.p.A. né dalla Regione Autonoma Friuli Venezia Giulia**. I marchi citati appartengono ai rispettivi titolari.
 > L'app non aggira alcuna protezione: accede **solo ai dati del tuo account**, tramite le API ufficiali e il **tuo** login SPID/CIE, e non manda nulla a terzi. Il QR mostrato è il token firmato dal backend regionale, ridisegnato così com'è.
